@@ -1,0 +1,1 @@
+"""XDG Desktop Portal integrations."""
